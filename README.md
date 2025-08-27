@@ -39,6 +39,19 @@ Below are screenshots showing the project running on `localhost:3000`:
 - **npm** – package management and server control  
 - **Git & GitHub** – version control and repository management
 
+## Next Steps
+
+Looking forward, I plan to continue refining this project to strengthen both technical and collaborative skills. Key next steps include:
+
+- Enhancing website functionality and interactivity with additional React/Next.js components.
+- Experimenting with advanced Tailwind styling and custom animations to improve UI/UX.
+- Practicing debugging, error handling, and optimization techniques.
+- Extending version control workflow with feature branches and pull requests to simulate team collaboration.
+- Documenting changes systematically for future reference and showcasing progress on GitHub.
+
+These steps aim to deepen my understanding of web development, build fluency in coding languages, and prepare for collaborative projects in professional and academic settings.
+
+
 ## Credits
 
 This project is adapted from the [Next.js Blog Starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter). All modifications, edits, and improvements are my own.
